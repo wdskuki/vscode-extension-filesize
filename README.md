@@ -6,6 +6,6 @@ This vscode extension package show current file size in the right status bar wit
 
 ## Examples
 
-![example](example.jpg)
+![Example](https://dsweiblog.oss-cn-shanghai.aliyuncs.com/2019/vscode-extension-filesize-example.jpg)
 
 **Enjoy!**
