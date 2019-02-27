@@ -18,6 +18,7 @@
     "*"
   ],
   "main": "./extension",
+  "icon": "icon.png",
   "contributes": {
   },
   "scripts": {
